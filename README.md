@@ -4,6 +4,10 @@ A lightweight chat client built with **CustomTkinter**, featuring a
 sliding side menu, adaptive UI layout, and real-time messaging through
 TCP sockets.
 
+```
+    test
+```
+
 ## ✨ Features
 
 -   📡 **Real-time messaging** using Python sockets
