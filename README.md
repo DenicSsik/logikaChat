@@ -10,17 +10,13 @@ TCP sockets.
 -   📁 **Sliding menu panel** with smooth animation
 -   🔄 **Fully adaptive layout** --- automatically adjusts to window
     size\
--   🧵 **Multithreaded message listener** (non-blocking UI)
--   💬 **Scrollable chat panel** for readable message history
 
 ## 🚀 How It Works
 
 -   On startup, the client connects to `localhost:8080`
--   Sends a "joined the chat" notice
+-   Sends a "joined the chat" message
 -   Listens for messages on a separate daemon thread
 -   Displays new messages instantly
--   The menu button toggles a smooth sliding animation
--   UI elements auto-resize every 10 ms for perfect layout
 
 ## 📦 Requirements
 ```
