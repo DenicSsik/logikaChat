@@ -33,19 +33,19 @@ TCP sockets.
 
 ## 🧩 File Overview
 
--   `MainWindow` --- main app class\
--   `show_menu()` --- controls sliding menu\
--   `menu_anim()` --- smooth animation loop\
--   `send_message()` --- sends user input to server\
--   `get_messages()` --- listens for incoming messages\
+-   `MainWindow` --- main app class
+-   `show_menu()` --- controls sliding menu
+-   `menu_anim()` --- smooth animation loop
+-   `send_message()` --- sends user input to server
+-   `get_messages()` --- listens for incoming messages
 -   `adaptive_ui()` --- dynamically updates layout
 
 ## 🖼 UI Features
 
--   Side menu with dynamic width\
--   Chat field with auto-expanding scroll area\
--   Entry box for writing messages\
--   Animated button toggling the menu\
+-   Side menu with dynamic width
+-   Chat field with auto-expanding scroll area
+-   Entry box for writing messages
+-   Animated button toggling the menu
 -   Username input (inside menu)
 
 ## ⚠️ Notes
