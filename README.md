@@ -28,9 +28,9 @@ TCP sockets.
     customtkinter
 
 ## ▶️ Launching
-
+```
     python logikaTalk.py
-
+```
 ## 🧩 File Overview
 
 -   `MainWindow` --- main app class
