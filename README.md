@@ -3,11 +3,6 @@
 A lightweight chat client built with **CustomTkinter**, featuring a
 sliding side menu, adaptive UI layout, and real-time messaging through
 TCP sockets.
-
-```
-    test
-```
-
 ## ✨ Features
 
 -   📡 **Real-time messaging** using Python sockets
@@ -28,9 +23,9 @@ TCP sockets.
 -   UI elements auto-resize every 10 ms for perfect layout
 
 ## 📦 Requirements
-
+```
     customtkinter
-
+```
 ## ▶️ Launching
 ```
     python logikaTalk.py
